@@ -3,7 +3,7 @@ var winsCounter = 0;
 var lossesCounter = 0;
 var counter = 0;
 var targetScore = Math.floor(Math.random() * 100) + 1;
-var numberOptions = [5, 10, 11, 12, 4, 2, 15, 20, 8, 7, 6];
+var numberOptions = [5, 10, 11, 12];
 var increment = numberOptions[Math.round(Math.random())];
 var crystalValue = ($(this).attr("data-crystalvalue"));
 
