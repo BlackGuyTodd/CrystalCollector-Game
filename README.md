@@ -1,5 +1,5 @@
 # Crystal Collector Game!
-A project I completed during the Univeersity Of Denver Full Stack Coding Bootcamp. This simple game has you collect crystals the match the computer score. Enjoy!
+A project I completed during the University Of Denver Full Stack Coding Bootcamp. This simple game has you collect crystals the match the computer score. Enjoy!
 ## Getting Started
 Click the crystals to begin the game.
 ## Built With
